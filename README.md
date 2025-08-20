@@ -24,7 +24,7 @@ The api performs below operations
 Postman collection: See the file Belong-Test.postman_collection.json in the repo
 
 
-To get a view of the database checkout the below file from the repo
+To get a view of the database checkout the below file from the repo. This service is using in memory H2 db.
 ```
 data.sql
 ```
