@@ -33,3 +33,7 @@ Further improvements:
 
 - Add Spring Security for token validation
 - Migrate endpoints over https
+
+Assumptions
+
+- Phone numbers are stored in the DB in normalised form
